@@ -1,0 +1,29 @@
+h1{
+    color:red ;
+ text-align: center;
+ font-family: sans-serif;
+
+ }
+
+ div{
+    text-align: center;
+ }
+ h2{
+    color: purple;
+    font-family: sans-serif;
+    text-align: center;
+ }
+ p{
+    
+    text-align: center;
+ }
+h3{
+    font-family: sans-serif;
+    color:rgb(215, 175, 100);
+    text-align: center;
+}
+
+ul{
+    text-align: center;
+    list-style-position: inside;
+}
